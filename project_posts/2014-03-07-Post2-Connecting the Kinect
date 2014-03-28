@@ -8,3 +8,5 @@ Our prototype is using a combination of Processing sketch with SimpleOpenNI to t
 Starting with the hip joint, we sent the angle we calculated in the processing sketch to the Arduino controlling in real time using serial connection. It’s amazing to see how much fun it is and how much even one moving part that actually reacts to you in real time makes a difference. 
 
 https://www.youtube.com/watch?v=c5e8hlZefwg&list=PLVFHt_u7b7bGriRHce8GBIDgBDPLjIj0p&index=3
+
+Our next step will be to fully mirror user’s movement with all servos!
