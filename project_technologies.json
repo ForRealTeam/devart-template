@@ -1,16 +1,16 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "SimpleOpemNI"
         ],
         "platforms": [
-            "insert platforms"
+            "Processing", "Google ADK"
         ],
         "toolkits": [
-            "insert toolkits"
+            "OpenNI"
         ]
     },
     "themes": [
-        "insert themes"
+        "Poetic", "Interactive", "Personality"
     ]
 }
