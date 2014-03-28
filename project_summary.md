@@ -1,5 +1,5 @@
 # Doppelganger
-The Interactive Physical Personality Experiment
+An Army Of You - Multiple Robotic Personality Disorder
 
 ## Authors
 - Tomer Daniel, (github username: tomerdaniel), tomer@forrealteam.com
