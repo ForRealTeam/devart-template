@@ -17,8 +17,6 @@ https://www.youtube.com/watch?v=8dfWkjarHsk
 https://www.youtube.com/watch?v=KePhjsnCpnU
 
 
-[Example Link](http://www.google.com "Example Link")
-
 ## Sample Code: Wiggly Personality
 ```
 public class Austin extends Doppelganger {
