@@ -1,13 +1,13 @@
 {
     "technologies": {
         "apis": [
-            "SimpleOpemNI", 
+            "SimpleOpemNI"
         ],
         "platforms": [
             "Processing", "Google ADK"
         ],
         "toolkits": [
-            "OpenNI", 
+            "OpenNI"
         ]
     },
     "themes": [
