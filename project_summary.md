@@ -8,7 +8,7 @@ The Interactive Physical Personality Experiment
 
 ## Project Description
 Doppelganger is an array of interactive robots guided by a software based on 3D scanning.
-It depicst the user standing in front of it in many alternative states at the same time, each enacted by a separate humanoid robot. We consider it an authenticity search contraption. While imitating the different personalities in code, we seek to capture a jest of the physical manifestation residing in the core of numerous characters: Patrick, who is a dance instructor, Austin, an easy going music loving bloke, Nathan the neurotic and a few others.
+It depicts the user standing in front of it in many alternative states at the same time, each enacted by a separate humanoid robot. We consider it an authenticity search contraption. While imitating the different personalities in code, we seek to capture a jest of the physical manifestation residing in the core of numerous characters: Patrick, who is a dance instructor, Austin, an easy going music loving bloke, Nathan the neurotic and a few others.
 
 ## Links
 Personaity Demo videos:
