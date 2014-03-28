@@ -10,16 +10,16 @@ An Army Of You - Multiple Robotic Personality Disorder
 Doppelganger is an array of 15-20 interactive robots guided by a software based on 3D scanning of the user.
 It depicts the user standing in front of it in many alternative states simultaneously, each enacted by a separate humanoid robot. We consider it an authenticity search contraption. While imitating the different personalities in code, we seek to capture a jest of the physical manifestation residing in the core of numerous characters: Patrick, who is a dance instructor, Austin, an easy going music loving bloke, Nathan the neurotic and a few others.
 
-The activation of robot swarm is done via the android control app, which connects to the contraption over bluetooth, allowing selection of imitation modes and, upon user concent, tagging the user on Google Plus video posts, uploaded from footage taken during the active session.
+The activation of robot swarm is done via the Android control app, which connects to the contraption over bluetooth, allowing selection of imitation modes and, upon user concent, tagging the user on Google Plus video posts, uploaded from footage taken during the active session.
 
 ## Links
-Personaity Demo videos:
+Personaity Test videos:
 https://www.youtube.com/watch?v=1hFgxRXSCxk
 https://www.youtube.com/watch?v=8dfWkjarHsk
 https://www.youtube.com/watch?v=KePhjsnCpnU
 
 
-## Sample Code: Wiggly Personality
+## Exmple Code Snippet: Wiggly Personality
 ```
 public class Austin extends Doppelganger {
   final static int LIMB_CHANGE_INTERVAL = 1000;
