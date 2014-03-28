@@ -2,13 +2,18 @@
 The Interactive Physical Personality Experiment
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- Tomer Daniel, (github username: tomerdaniel), tomer@forrealteam.com
+- Zvika Markfeld (github username: zvikapika), zvika@forrealteam.com
+- Saron Paz, saron@forrealteam.com
 
-## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+## Project Description
+Doppelganger is an array of interactive robots guided by a software based on 3D scanning.
+It depicst the user standing in front of it in many alternative states at the same time, each enacted by a separate humanoid robot. We consider it an authenticity search contraption. While imitating the different personalities in code, we seek to capture a jest of the physical manifestation residing in the core of numerous characters: Patrick, who is a dance instructor, Austin, an easy going music loving bloke, Nathan the neurotic and a few others.
 
-## Link to Prototype
+## Links
+Demo videos:
+https://www.youtube.com/watch?v=1hFgxRXSCxk
+
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
 
 [Example Link](http://www.google.com "Example Link")
