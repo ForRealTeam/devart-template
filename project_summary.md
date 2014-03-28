@@ -65,4 +65,4 @@ public class Austin extends Doppelganger {
 }
 ```
 ## Github Repository
-See project on: https://github.com/ForRealTeam/devart-template/project-code
+See project on: https://github.com/ForRealTeam/devart-template/tree/master/project_code
