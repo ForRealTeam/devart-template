@@ -1,10 +1,10 @@
 {
     "technologies": {
         "apis": [
-            "SimpleOpemNI"
+            "SimpleOpemNI", "Google Plus API"
         ],
         "platforms": [
-            "Processing", "Google ADK"
+            "Processing", "Java", "Android"
         ],
         "toolkits": [
             "OpenNI"
