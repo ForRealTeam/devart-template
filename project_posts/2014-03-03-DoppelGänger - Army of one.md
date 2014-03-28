@@ -1,5 +1,3 @@
-DoppelGänger - Army of one
- 
 DoppelGänger is an exploration of a dynamic link between virtual and physical identities through the examination of human robot kinetic interaction. 
 
 The introduction of the digital sphere has expanded the borders of our identity and has opened the vast world of multifaceted interactions with other identities and the reality around us. 
