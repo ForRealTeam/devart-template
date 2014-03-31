@@ -2,7 +2,6 @@
 An Army Of You - Multiple Robotic Personality Disorder
 
 ## Authors
-- Tomer Daniel, (github username: tomerdaniel), tomer@forrealteam.com
 - Zvika Markfeld (github username: zvikapika), zvika@forrealteam.com
 - Saron Paz, saron@forrealteam.com
 
